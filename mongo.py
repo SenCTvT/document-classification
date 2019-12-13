@@ -33,7 +33,5 @@ def get_all_records():
         print(i)
 
 
-#insert_to_db(data)
-
 #data = get_all_records()
 get_all_records()
